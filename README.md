@@ -1,0 +1,1 @@
+this is my first emacs file, created using the emac (terminal version) for alx
